@@ -1,0 +1,12 @@
+.error {
+   color: red;
+   font-size: 14px;
+
+   top : 45px;
+}
+
+.flexbox {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}

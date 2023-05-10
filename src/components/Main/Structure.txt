@@ -1,0 +1,14 @@
+Main: {
+  Authentication: {
+    Login
+    SignUp
+  }
+  Checkout: {
+    Cart
+    Shipping
+    Payment
+    Success
+  }
+}
+
+Main has Cart Information
